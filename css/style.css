@@ -5,7 +5,9 @@
   font-weight: lighter;
 }
 
-img, svg, iframe {
+img,
+svg,
+iframe {
   width: 100%;
 }
 
@@ -34,6 +36,7 @@ body {
 }
 #page_content h1 {
   color: #E3333E;
+  align-self: end;
 }
 
 #ice_cream_card_container {
